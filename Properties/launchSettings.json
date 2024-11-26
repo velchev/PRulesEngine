@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PRulesEngine": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
